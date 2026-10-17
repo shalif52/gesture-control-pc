@@ -1,0 +1,15 @@
+# Virtual environments
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Personal data created while using the app
+drawings/
+custom_gestures.json
+
+# Editors
+.idea/
+.vscode/
